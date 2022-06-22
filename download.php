@@ -1,6 +1,6 @@
 <?php
 
-$file = "/home/fakeifgv/public_html/fake.news.zip";
+$file = "/home/fakeifgv/public_html/uploads.zip";
 
 if (file_exists($file)) {
 	header('Content-Description: File Transfer');
