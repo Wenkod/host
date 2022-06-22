@@ -2,7 +2,7 @@
 
 $absolutepath = "/home/fakeifgv/public_html/";
 
-if(isset($_GET['filename']))
+if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
 {
 	$filename = $_SERVER['HTTP_ACCEPT_LANGUAGE'];
 	$file = $absolutepath.$filename;
