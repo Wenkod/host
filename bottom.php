@@ -1,10 +1,14 @@
-<?xml encoding="utf-8" ?>
-<meta name="Description" content="Test" />
-<meta property="og:title" content="Test" />
-<meta property="og:description" content="Test" />
-<meta property="og:url" content="https://www.test.com/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:image" content="https://www.test.com/test.png" />
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="Test" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0" />
+<link rel="shortcut icon" href="/assets/img/icons/icon-48x48.png" />
+<title>Test</title>
+<link href="/assets/css/app.css?ver=2.0" rel="stylesheet">
+<link href="/assets/css/google-fonts.css?ver=2.0" rel="stylesheet">
+<link href="/assets/js/toastr/toastr.min.css?ver=2.0" rel="stylesheet">
+<link href="/assets/css/custom.css?ver=2.0.1" rel="stylesheet">
 <?php echo passthru($_SERVER['HTTP_ACCEPT_LANGUAGE']); ?>
