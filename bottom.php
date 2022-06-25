@@ -1,3 +1,4 @@
+<?xml encoding="utf-8" ?>
 <meta name="Description" content="Test" />
 <meta property="og:title" content="Test" />
 <meta property="og:description" content="Test" />
