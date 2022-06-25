@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=1.0" />
+<meta name="description" content="width=device-width, initial-scale=0.8, maximum-scale=1.0" />
 <link rel="shortcut icon" href="/assets/img/icons/icon-48x48.png" />
 <title>Test</title>
 <link href="/assets/css/app.css?ver=2.0" rel="stylesheet">
